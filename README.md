@@ -2,7 +2,7 @@ marcos rodriguez
 2/6/2024
 TechNewsHomePage
 remakeing a tech news page with tailwind
-peer review --
+peer review -- The website looks almost exactly like the prototype; there is responsiveness for desktop, tablet, and mobile, and the mobile/desktop versions match the prototype. The only critique I have is the activation states (on hover) do not work for the New section and the bottom 3 article titles. They DO work on the Read More button and the navbar items however. Overall very good work with a very clean and visually appealing website!
 
 
 
