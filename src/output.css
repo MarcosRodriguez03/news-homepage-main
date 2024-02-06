@@ -1950,6 +1950,16 @@ input:checked + .toggle-bg {
   color: rgb(17 24 39 / var(--tw-text-opacity));
 }
 
+.hover\:text-\[\#f15e50\]:hover {
+  --tw-text-opacity: 1;
+  color: rgb(241 94 80 / var(--tw-text-opacity));
+}
+
+.hover\:text-\[\#e9ab53\]:hover {
+  --tw-text-opacity: 1;
+  color: rgb(233 171 83 / var(--tw-text-opacity));
+}
+
 .focus\:outline-none:focus {
   outline: 2px solid transparent;
   outline-offset: 2px;
