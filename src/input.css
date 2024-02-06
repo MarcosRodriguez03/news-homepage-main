@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Inter';
+    src: url('./assets/fonts/Inter-VariableFont_slnt,wght.ttf');
+}
+
+.customFont {
+    font-family: 'Inter';
+
+
+}
+
+
+
+.colors {
+    color: #e9ab53;
+    color: #f15e50;
+    color: #fffdfa;
+    color: #c5c6ce;
+    color: #5d5f79;
+    color: #00001a;
+
+}
